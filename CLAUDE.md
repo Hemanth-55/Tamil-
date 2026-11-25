@@ -29,6 +29,7 @@ Claude: read this file, then the files in `notes/`, at the start of every sessio
 
 ## Files
 - `notes/repos.md`: registry of all project repos
+- `agents/`: the instructions behind every Tamil agent (CEO, Mail & Calendar, Tutor, Portfolio, AI News, Job Hunter). When an agent changes, update its copy here.
 - `kit/`: the memory kit installed into every repo
 - `notes/session-log.md` — running log of sessions, newest first
 - `notes/projects.md` — ongoing projects, links and status

@@ -1,5 +1,9 @@
 # Session log (newest first)
 
+## 2026-11-25: Job Hunter + agent code in GitHub
+- Done: built Tamil - Job Hunter (repo Tamil---Job-Hunter-); saved every Tamil agent's instructions under agents/; hub README.
+- Next: Hemi creates ~/Job Hunts; first full hunt.
+
 ## 2026-11-25: Portfolio, computer vision, résumés, AI News agent
 - Done: GitHub profile redesigned (Apple-minimal; "Mentee", no stance/targets); soccer model repo + site "Soccer scout"; First Computer Vision Project built (repo, notebook, site "Innings vision", profile card); 3 tailored résumés; Vercel Git auto-deploy connected
 - Agents: Tamil CEO (main), Tamil → Portfolio, Tamil → AI News (skills proposed in claude.ai)
