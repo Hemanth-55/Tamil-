@@ -1,5 +1,12 @@
 # Session log (newest first)
 
+## 2026-11-25: Pivot to sports advisor (north star)
+- Decision: career goal is consultant / advisor to the sports industry; target advisory, consulting and business analyst roles (internships + full-time), major US cities first, pay matters, Northeast bonus.
+- Done: notes/north-star.md; north star wired into this CLAUDE.md, the kit, every project repo's CLAUDE.md and the quality-reviewer agent; pivot items added to each repo's backlog.
+- Done: Job Hunter re-aimed (advisory scoring, pay, city tiers, consulting boards incl. Accenture); advisory résumé style + base résumé.
+- Done: AI News adds Sports Business (US, India, European football) + Advisor's Lens.
+- Next: career agents roadmap (see backlog); first evidence project.
+
 ## 2026-11-25: Job Hunter + agent code in GitHub
 - Done: built Tamil - Job Hunter (repo Tamil---Job-Hunter-); saved every Tamil agent's instructions under agents/; hub README.
 - Next: Hemi creates ~/Job Hunts; first full hunt.

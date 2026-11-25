@@ -8,6 +8,10 @@ Claude: read this file, then the files in `notes/`, at the start of every sessio
 - Professional cricketer (right-handed opener); aiming for a sports analytics career (NBA, MLB, NHL, NFL)
 - GitHub: Hemanth-55 · LinkedIn: linkedin.com/in/hemanthkumargopi
 
+## North star (read `notes/north-star.md` first)
+- Hemi is building a career as a **consultant / advisor to the sports industry**, starting with advisory and business analyst roles. Business side first; technical skill supports it.
+- **Every output** (résumé, deck, project, demo, README, post) is framed: decision → data → logic → recommendation → impact.
+
 ## How to work with Hemi
 - Explain in simple English or Chennai-style Tanglish, never pure Tamil
 - Charts, websites, GitHub and other outputs: Apple-level quality. Minimal, clean, professional, easy to read at a glance
@@ -28,6 +32,7 @@ Claude: read this file, then the files in `notes/`, at the start of every sessio
 - **New repo:** `bash kit/install.sh <repo>` installs the same kit (skills, agents, hook, notes).
 
 ## Files
+- `notes/north-star.md`: career direction and the consultant mindset every output follows
 - `notes/repos.md`: registry of all project repos
 - `agents/`: the instructions behind every Tamil agent (CEO, Mail & Calendar, Tutor, Portfolio, AI News, Job Hunter). When an agent changes, update its copy here.
 - `kit/`: the memory kit installed into every repo

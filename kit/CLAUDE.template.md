@@ -9,6 +9,7 @@ Claude: read this file, then `notes/`, at the start of every session.
 - Key files:
 
 ## Rules
+- North star: Hemi is becoming a sports-industry advisor. Frame everything as decision → data → logic → recommendation → impact (see Tamil-/notes/north-star.md).
 - Apple-level quality: minimal, professional, clear to a layman at a glance. Speak to tech people, no gimmicks.
 - Never describe projects as done at BU.
 - Facts come only from the repo, the notes and Hemi. Ask, don't guess.
