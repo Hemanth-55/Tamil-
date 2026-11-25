@@ -32,3 +32,18 @@ Technical detail (model names, code) supports the story; it never leads it.
 - **Decks:** answer first (title = the recommendation), one idea per slide, evidence under it, next steps at the end.
 - **Projects / GitHub / website:** open with the business question and the recommendation; methods come after.
 - **Knowledge:** daily AI + sports-business news (US, India, European soccer) via the AI News agent.
+
+## Proposed roadmap (to confirm with Hemi)
+**Agents to build**
+1. **Case Coach:** daily consulting case practice (market sizing, profitability, sports deals), scores structure and delivery, tracks progress.
+2. **Deck Builder:** turns any analysis into an answer-first consulting deck (title = recommendation, one idea per slide, evidence, next steps).
+3. **Sports Business Analyst:** weekly one-page brief on a real sports-business question from the news (rights, pricing, sponsorship, ownership), with a recommendation; doubles as LinkedIn posts.
+4. **Network & Outreach:** finds people in sports consulting and analytics, drafts warm notes for approval, tracks follow-ups.
+5. **Interview Prep:** behavioural stories (STAR) from his real experience + firm-specific case prep before each interview.
+
+**Evidence projects (each ends in a recommendation + deck + 1-page memo)**
+- Ticket pricing strategy for a Boston team (demand, dynamic pricing, recommendation).
+- Sponsorship value model: what a jersey/stadium deal is worth and who should buy it.
+- IPL / MLC franchise economics: where a new cricket league in the US should expand.
+- Premier League club financial health and recruitment ROI (extends the market value model).
+- Fan engagement: which content and channels grow a club's fans (extends the rivalry experiment).
