@@ -23,3 +23,15 @@ Claude: read this file, then the files in `notes/`, at the start of every sessio
 - `notes/session-log.md` — running log of sessions, newest first
 - `notes/projects.md` — ongoing projects, links and status
 - `notes/decisions.md` — lasting decisions and preferences
+
+## Skills (`.claude/skills/`)
+- `session-start`: pull, read the notes, brief Hemi
+- `session-end`: write the log entry, update notes, commit + push
+- `log-decision`: save a decision or project update into `notes/`
+
+## Agents (`.claude/agents/`)
+- `notes-keeper`: condenses and tidies `notes/` when it gets long
+- `quality-reviewer`: Apple-bar review before anything is published
+
+## Hook
+- `.claude/settings.json` runs a SessionStart hook that prints the latest log and the projects table into context automatically

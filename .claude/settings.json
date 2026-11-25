@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd \"$CLAUDE_PROJECT_DIR\" && echo '--- notes/session-log.md (latest) ---' && head -40 notes/session-log.md && echo && echo '--- notes/projects.md ---' && cat notes/projects.md"
+          }
+        ]
+      }
+    ]
+  }
+}
