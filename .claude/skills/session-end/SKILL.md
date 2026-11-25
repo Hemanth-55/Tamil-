@@ -16,5 +16,5 @@ description: Save this session's context back to the repo. Use when Hemi says "s
 2. If a project's status changed, update its row in `notes/projects.md`.
 3. If a lasting decision or preference came up, add a dated line to `notes/decisions.md`.
 4. Make sure nothing secret is included (keys, passwords, tokens).
-5. `git add -A && git commit -m "Session log: <title>" && git push origin main`
+5. `git add -A && git commit -m "Session log: <title>" && git pull --rebase && git push origin main` (if notes conflict, keep both sides, newest first)
 6. Tell Hemi in one line what was saved.

@@ -19,7 +19,17 @@ Claude: read this file, then the files in `notes/`, at the start of every sessio
 2. **During:** record decisions and important facts in the right `notes/` file
 3. **End:** add a dated entry at the top of `notes/session-log.md` (what was done, decisions, next steps), then commit and push to `main`
 
+## Workflow (how memory stays forever)
+- **One repo per project.** Each repo carries its own memory: `CLAUDE.md` (rules) + `notes/` (log, backlog, decisions).
+- **Sessions are disposable; the repo is permanent.** Any number of sessions (web chat, phone, terminal) can work on the same repo. Each one starts by reading the notes and ends by writing them back.
+- **Never keep anything important only in a chat.** If it isn't committed and pushed, it doesn't exist.
+- **Start:** "where were we" · **End:** "wrap up" (log, commit, `git pull --rebase`, push).
+- **Cross-project facts** (who Hemi is, career, priorities) live here in Tamil-; **project facts** live in the project's repo. `notes/repos.md` lists every repo.
+- **New repo:** `bash kit/install.sh <repo>` installs the same kit (skills, agents, hook, notes).
+
 ## Files
+- `notes/repos.md`: registry of all project repos
+- `kit/`: the memory kit installed into every repo
 - `notes/session-log.md` — running log of sessions, newest first
 - `notes/projects.md` — ongoing projects, links and status
 - `notes/decisions.md` — lasting decisions and preferences
