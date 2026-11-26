@@ -21,6 +21,11 @@ Technical detail (model names, code) supports the story; it never leads it.
 - **Where:** major US cities first (NYC, Boston, Chicago, LA, SF Bay, DC, Atlanta, Dallas, Philadelphia, Seattle, Denver). Smaller towns if the role or pay is clearly better. **Money matters.** A Northeast location is a bonus.
 - **Employers:** sports teams, leagues and orgs; sports consultancies and agencies; consulting firms with sports, media & entertainment practices; sports tech and brands.
 
+## How Tamil runs (set 25 Nov 2026)
+- **Tamil CEO comes to Hemi with everything.** Agents draft and prepare; Hemi approves; only then does anything go out (applications, emails, posts, submissions).
+- Agents may call each other and propose new agents, but new agents are created only after Hemi approves.
+- Job applications: drafted by Job Hunter (résumé, cover letter, form answers), approved by Hemi, then submitted by the agent.
+
 ## Skills to build (3–5 years)
 - **Communication:** structured storytelling (answer first, then support), executive summaries, slide craft, presenting to non-technical people.
 - **Business:** sports business models (media rights, ticketing, sponsorship, betting, player economics), financial basics, market sizing, case interviews.
