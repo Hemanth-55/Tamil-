@@ -1,5 +1,8 @@
 # Session log (newest first)
 
+## 2026-11-28 · Usage research (proposal)
+- Researched free ways to cut Claude usage; plan in notes/usage-plan.md. Biggest wins: move the Cric Secrets weekly report to GitHub Actions + monthly Claude review; scripted application kits; session habits. Waiting for Hemi's OK; nothing changed.
+
 ## 2026-11-27 · Applications night + new priority
 - Job Hunter: 12 applications submitted, 3 CAA skipped (sponsorship). "Applied Jobs.md" now lives in ~/Desktop/Job Hunts. Next applications session: Fri 4 Dec, 10 PM ET (reminder set).
 - New rules: narrative, story-driven cover letters; preferred name always just "Hemi".
